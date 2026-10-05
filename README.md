@@ -1,2 +1,3 @@
-# phillanneanderson-ai.github.io
-SilverDrop PNW live site (GitHub Pages user site)
+# SilverDrop PNW
+
+Live sample site for silverdroppnw.com
